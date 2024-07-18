@@ -18,26 +18,7 @@ The Notes Keeper Application is a desktop web application inspired by Google Kee
   - Responsive design for optimal viewing on various devices.
   - Beautiful animations and styling.
 
-## Technologies Used
 
-### Frontend
-- **React.js**
-  - Component-based architecture.
-  - State management with hooks.
-- **CSS**
-  - Custom styling and animations.
-
-### Backend
-- **Node.js**
-  - Server-side JavaScript runtime.
-- **Express.js**
-  - Web framework for Node.js.
-- **SQLite**
-  - Lightweight, disk-based database.
-- **cors**
-  - Cross-Origin Resource Sharing.
-- **body-parser**
-  - Middleware for parsing JSON request bodies.
 ## Video 
 Use headphones 
 
